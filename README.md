@@ -6,5 +6,7 @@ Slot Game Gacor for thesis project in order to get my master degree in slot gaco
 Joke aside, this is only for mobile android development project lol
 
 # Demo
-https://user-images.githubusercontent.com/41731559/232543004-9819fb7b-6a58-42d7-a364-31f2e8146f61.mp4
+
+
+https://user-images.githubusercontent.com/41731559/232543464-6bb62639-d3b2-4dbf-be59-f487ad9abf70.mp4
 
